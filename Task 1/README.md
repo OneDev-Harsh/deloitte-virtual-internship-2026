@@ -62,15 +62,6 @@ The output schema standardizes both formats into:
 
 ---
 
-## Project Structure
-├── data-1.json # Input format 1
-├── data-2.json # Input format 2
-├── data-result.json # Expected unified output
-├── main.py # Core implementation and tests
-
-
----
-
 ## How It Works
 
 1. The program reads input JSON files  
